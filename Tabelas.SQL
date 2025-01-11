@@ -20,7 +20,7 @@ CREATE TABLE Emprestimos (
   id_usuario INT NOT NULL,
   id_livro INT NOT NULL,
   data_emprestismo DATE,
-  data_devolucao DATE
+  data_devolucao DATE,
   
   FOREIGN KEY (id_usuario) 
   REFERENCES Usuarios (id),

@@ -9,4 +9,4 @@ WHERE autor = 'Paulo Coelho';
 
 DELETE FROM Emprestimos
 WHERE data_devolucao = 2006;
-//Essa doeu
+/* Essa doeu */

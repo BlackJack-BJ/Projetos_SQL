@@ -40,3 +40,20 @@ INSERT INTO Usuarios values
  INSERT INTO Usuarios values 
 (5, 'Pedro Santos', 'pedros@gmail.com',
  '823498765');
+
+
+
+INSERT INTO Emprestimos values
+(1, 1, 3, 2025-01-01, 2025-01-10);
+
+INSERT INTO Emprestimos values
+(2, 2, 5, 2025-01-03, 2025-01-13);
+
+INSERT INTO Emprestimos values
+(3, 3, 1, 2025-01-05, NULL);
+
+INSERT INTO Emprestimos values
+(4, 4, 4, 2025-01-07, NULL);
+
+INSERT INTO Emprestimos values
+(5, 5, 2, 2025-01-08, 2025-01-18);

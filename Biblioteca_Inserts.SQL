@@ -11,7 +11,7 @@ INSERT INTO Livros VALUES
 1937, 'Drama');
 
 INSERT INTO Livros VALUES
-(4, 'O Pequeno Príncipe', 'Antoine ds Saint-Exupéry'
+(4, 'O Pequeno Príncipe', 'Antoine ds Saint-Exupéry',
 1943, 'Fantasia');
 
 INSERT INTO Livros VALUES 

@@ -19,6 +19,8 @@ INSERT INTO Livros VALUES
  1949, 'Distopia');
 
 
+
+
 INSERT INTO Usuarios values 
 (1, 'João Silva', 'joao@gmail.com',
  '823456789');
